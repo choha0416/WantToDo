@@ -268,7 +268,7 @@
                     localStorage.clear();
 
                     // 페이지 새로고침
-                    location.reload();
+                    //location.reload();
                 });
         }
 
